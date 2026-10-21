@@ -133,7 +133,7 @@ Then cut a release: `git tag v0.1.3 && git push --tags`. That's it — nothing e
 
 ## Tech
 
-React 19 · Vite · Tailwind · Electron shell · publik API (default) · Ollama (local) · OpenAI / Anthropic (your own key) · KaTeX · FSRS spaced repetition. No backend of its own, no telemetry, no account required.
+React 19 · Vite · Tailwind · Electron shell · publik API (default) · Ollama (local) · OpenAI / Anthropic / Google (your own key) · KaTeX · FSRS spaced repetition. No backend of its own, no telemetry, no account required.
 
 ## License
 
